@@ -37,7 +37,6 @@ certinia.com
 certsy.com
 certsynonprod.com
 cloudvector.com
-comcast.com
 cultbeauty.co.uk
 dailyadvent.com
 dash.zoop.com.br
@@ -58,7 +57,6 @@ genoapay.com
 genoapay.co.nz
 gesundheitsverbund.at
 gomastercard.com.au
-hostgator.com
 ikarem.io
 illamasqua.com
 immutable.com
@@ -162,7 +160,6 @@ rapyd.com
 rapyd.net
 rapyd.org
 rec.net
-register.com
 remove.bg
 s-cloud.net
 scoober.com
